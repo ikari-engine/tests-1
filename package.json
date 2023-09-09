@@ -1,0 +1,35 @@
+{
+  "name": "@ikari-engine/tests-1",
+  "version": "0.0.0-snap",
+  "description": "Ikari engine another test repository",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "commitlint": "commitlint --edit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikari-engine/tests-1.git"
+  },
+  "keywords": [
+    "ikari",
+    "engine",
+    "tests",
+    "application",
+    "test"
+  ],
+  "author": "Pedro Xavier Leite Cavadas",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ikari-engine/tests-1/issues"
+  },
+  "homepage": "https://github.com/ikari-engine/tests-1#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3",
+    "typescript": "^5.2.2"
+  }
+}
