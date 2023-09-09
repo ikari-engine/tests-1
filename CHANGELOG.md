@@ -1,3 +1,10 @@
+# [1.0.0-development.6](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.5...v1.0.0-development.6) (2023-09-09)
+
+
+### Features
+
+* **semantic-release:** debug ([67c97cf](https://github.com/ikari-engine/tests-1/commit/67c97cf554094f2350116074abd0db9aeb9de57f))
+
 # [1.0.0-development.5](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.4...v1.0.0-development.5) (2023-09-09)
 
 
