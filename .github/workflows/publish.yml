@@ -10,6 +10,7 @@ permissions:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    environment: development
     permissions:
       contents: write
       issues: write
