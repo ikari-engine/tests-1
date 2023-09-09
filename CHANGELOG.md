@@ -1,3 +1,10 @@
+# [1.0.0-development.5](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.4...v1.0.0-development.5) (2023-09-09)
+
+
+### Features
+
+* **semantic-release:** extract version on publish ([1a86093](https://github.com/ikari-engine/tests-1/commit/1a860930ecb3a4882b35af42d5976d0d2b4e85cf))
+
 # [1.0.0-development.4](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.3...v1.0.0-development.4) (2023-09-09)
 
 
