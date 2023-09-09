@@ -1,5 +1,5 @@
 import { assert } from "chai";
-import { add } from "../src";
+import { add, sub } from "../src";
 
 describe("global", () => {
   it("#add", () => {
@@ -7,5 +7,12 @@ describe("global", () => {
     const b = 2;
     const expected = a + b;
     assert.equal(add(a, b), expected);
+  });
+
+  it("#sub", () => {
+    const a = 1;
+    const b = 2;
+    const expected = a - b;
+    assert.equal(sub(a, b), expected);
   });
 });
