@@ -1,3 +1,10 @@
+# [1.0.0-development.3](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.2...v1.0.0-development.3) (2023-09-09)
+
+
+### Features
+
+* **github-packages:** add github packages support ([0e9d945](https://github.com/ikari-engine/tests-1/commit/0e9d9455ef514bdaefd639f722d6aa02903408eb))
+
 # [1.0.0-development.2](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.1...v1.0.0-development.2) (2023-09-09)
 
 
