@@ -1,3 +1,10 @@
+# [1.0.0-development.2](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.1...v1.0.0-development.2) (2023-09-09)
+
+
+### Features
+
+* **subtraction:** added subtraction to library ([ff5116d](https://github.com/ikari-engine/tests-1/commit/ff5116da8b7b5943c79d96632d20864f8dbf300b))
+
 # 1.0.0-development.1 (2023-09-09)
 
 
