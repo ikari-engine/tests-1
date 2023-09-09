@@ -34,7 +34,12 @@ jobs:
       - name: Build
         run: npm run build
       - name: Release
-        run: npx semantic-release
+        id: release
+        run: echo "VERSION=$(npx semantic-release | tee /dev/tty | grep -oP "Published\s+release\s+\K[0-9]+\.[0-9]+\.[0-9]+(-.*?)?(?=\s+on\s+.*?\s+channel)")" >> "$GITHUB_OUTPUT"
         env:
           GITHUB_TOKEN: ${{ secrets.SERVICE_ACCOUNT_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Display version
+        run: echo "Version is $VERSION"
+        env:
+          VERSION: ${{ steps.release.outputs.VERSION }}
