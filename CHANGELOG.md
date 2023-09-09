@@ -1,3 +1,10 @@
+# [1.0.0-development.4](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.3...v1.0.0-development.4) (2023-09-09)
+
+
+### Bug Fixes
+
+* **github-packages:** undo github packages release ([abad333](https://github.com/ikari-engine/tests-1/commit/abad3331811ec70b8612d53a83126e5b4e80d08c))
+
 # [1.0.0-development.3](https://github.com/ikari-engine/tests-1/compare/v1.0.0-development.2...v1.0.0-development.3) (2023-09-09)
 
 
