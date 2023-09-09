@@ -1,0 +1,32 @@
+# Source files
+src/
+
+# Test files
+test/
+
+# GitHub CI
+.github/
+
+# Husky
+.husky/
+
+# Commitlint configuration
+.commitlintrc.json
+
+# Mocha configuration
+.mocharc.json
+
+# Coverage configuration
+.nycrc.json
+
+# Semantic Release configuration
+.releaserc.json
+
+# Package lock
+package-lock.json
+
+# TypeScript configuration
+tsconfig.json
+
+# Gitignore
+.gitignore
