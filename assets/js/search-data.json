@@ -2,133 +2,133 @@
     "doc": "About",
     "title": "About",
     "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/runtime/about/",
+    "url": "/tests-1/about/",
     
     "relUrl": "/about/"
   },"1": {
     "doc": "API - Reference",
     "title": "API - Reference",
     "content": " ",
-    "url": "/runtime/reference/",
+    "url": "/tests-1/reference/",
     
     "relUrl": "/reference/"
   },"2": {
     "doc": "1.0.0-development.1",
     "title": "1.0.0-development.1",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/",
+    "url": "/tests-1/reference/1.0.0-development.1/",
     
     "relUrl": "/reference/1.0.0-development.1/"
   },"3": {
     "doc": "index",
     "title": "Module: index",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/#module-index",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/#module-index",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/#module-index"
   },"4": {
     "doc": "index",
     "title": "Table of contents",
     "content": "References . | add | sub | . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/#table-of-contents",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/#table-of-contents",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/#table-of-contents"
   },"5": {
     "doc": "index",
     "title": "References",
     "content": "add . Re-exports add . sub . Re-exports sub . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/#references-1",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/#references-1",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/#references-1"
   },"6": {
     "doc": "index",
     "title": "index",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/"
   },"7": {
     "doc": "math.add",
     "title": "Module: math/add",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.add.html#module-mathadd",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.add.html#module-mathadd",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.add.html#module-mathadd"
   },"8": {
     "doc": "math.add",
     "title": "Table of contents",
     "content": "Functions . | add | . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.add.html#table-of-contents",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.add.html#table-of-contents",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.add.html#table-of-contents"
   },"9": {
     "doc": "math.add",
     "title": "Functions",
     "content": "add . ▸ add(x, y): number . Add two numbers together . Parameters . | Name | Type | Description | . | x | number | The first number | . | y | number | The second number | . Returns . number . The sum of the two numbers . Defined in . math/add.ts:8 . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.add.html#functions-1",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.add.html#functions-1",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.add.html#functions-1"
   },"10": {
     "doc": "math.add",
     "title": "math.add",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.add.html",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.add.html",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.add.html"
   },"11": {
     "doc": "math",
     "title": "Module: math",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.html#module-math",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.html#module-math",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.html#module-math"
   },"12": {
     "doc": "math",
     "title": "Table of contents",
     "content": "References . | add | sub | . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.html#table-of-contents",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.html#table-of-contents",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.html#table-of-contents"
   },"13": {
     "doc": "math",
     "title": "References",
     "content": "add . Re-exports add . sub . Re-exports sub . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.html#references-1",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.html#references-1",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.html#references-1"
   },"14": {
     "doc": "math",
     "title": "math",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.html",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.html",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.html"
   },"15": {
     "doc": "math.sub",
     "title": "Module: math/sub",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.sub.html#module-mathsub",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.sub.html#module-mathsub",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.sub.html#module-mathsub"
   },"16": {
     "doc": "math.sub",
     "title": "Table of contents",
     "content": "Functions . | sub | . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.sub.html#table-of-contents",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.sub.html#table-of-contents",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.sub.html#table-of-contents"
   },"17": {
     "doc": "math.sub",
     "title": "Functions",
     "content": "sub . ▸ sub(x, y): number . Subtract two numbers together . Parameters . | Name | Type | Description | . | x | number | The first number | . | y | number | The second number | . Returns . number . The subtraction of the two numbers . Defined in . math/sub.ts:8 . ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.sub.html#functions-1",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.sub.html#functions-1",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.sub.html#functions-1"
   },"18": {
     "doc": "math.sub",
     "title": "math.sub",
     "content": " ",
-    "url": "/runtime/reference/1.0.0-development.1/wiki/math.sub.html",
+    "url": "/tests-1/reference/1.0.0-development.1/wiki/math.sub.html",
     
     "relUrl": "/reference/1.0.0-development.1/wiki/math.sub.html"
   }
